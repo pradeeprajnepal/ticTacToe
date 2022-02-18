@@ -1,2 +1,2 @@
-Live Demo:  https://pradeeprajnepal.github.io/ticTacToe/
+Live:  https://pradeeprajnepal.github.io/ticTacToe/
  
